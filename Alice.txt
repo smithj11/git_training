@@ -1,4 +1,4 @@
 
 Alice made some changes to her life to create a merge conflict
-
+Alice made some changes in order to study fetching changes.
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
