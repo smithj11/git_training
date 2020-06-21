@@ -1,2 +1,4 @@
+
 Alice made some changes to her life to create a merge conflict
+
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
