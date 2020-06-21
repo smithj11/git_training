@@ -1,4 +1,4 @@
 
 Alice made some changes to her life to create a merge conflict
-
+Made some more changes for Patrick.txt and the Patrick branch
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
