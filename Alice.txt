@@ -3,4 +3,5 @@ Alice made some changes to her life to create a merge conflictm
 Alice made some changes in order to study fetching changes!!
 Alice tried again to study fetching changes.......
 Alice created another merge conflict to study pulling with conflicts.
+Alice studied interactive rebase with Bob.
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
